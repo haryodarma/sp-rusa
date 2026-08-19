@@ -1,0 +1,162 @@
+[
+  {
+    "penyakit": "Kembung (Bloat/Thympani)",
+    "rekomendasi": "Pemberian Dimecticone; Trokar; Injeksi B Complex",
+    "gejala": [
+      {
+        "nama": "Penurunan nafsu makan (Anoreksia)",
+        "mb": 0.7,
+        "md": 0.1,
+        "cf": 0.6
+      },
+      {
+        "nama": "Adanya distensi/perbesaran pada perut bagian kiri",
+        "mb": 1.0,
+        "md": 0.2,
+        "cf": 0.8
+      },
+      {
+        "nama": "Frekuensi nafas cepat (Takipnea)",
+        "mb": 0.6,
+        "md": 0.2,
+        "cf": 0.4
+      },
+      { "nama": "Lemas (Lethargi)", "mb": 0.7, "md": 0.1, "cf": 0.6 },
+      {
+        "nama": "Air liur meningkat (Hipersalivasi)",
+        "mb": 0.5,
+        "md": 0.1,
+        "cf": 0.4
+      },
+      {
+        "nama": "Perilaku tidak nyaman menendang-nendang perut",
+        "mb": 0.5,
+        "md": 0.1,
+        "cf": 0.4
+      }
+    ]
+  },
+  {
+    "penyakit": "Indigesti",
+    "rekomendasi": "Injeksi B Complex; Injeksi Multivitamin; Manajemen Pakan",
+    "gejala": [
+      {
+        "nama": "Penurunan nafsu makan (Anoreksia)",
+        "mb": 0.8,
+        "md": 0.2,
+        "cf": 0.6
+      },
+      {
+        "nama": "Tidak adanya pergerakan usus bagian rumen",
+        "mb": 0.9,
+        "md": 0.1,
+        "cf": 0.8
+      },
+      { "nama": "Konsistensi feses berubah", "mb": 0.7, "md": 0.1, "cf": 0.6 },
+      {
+        "nama": "Frekuensi nafas menurun (Bradipnea)",
+        "mb": 0.2,
+        "md": 0.8,
+        "cf": -0.6
+      },
+      { "nama": "Lemas (Lethargi)", "mb": 0.8, "md": 0.2, "cf": 0.6 },
+      {
+        "nama": "Peningkatan air liur (Hipersalivasi)",
+        "mb": 0.2,
+        "md": 0.6,
+        "cf": -0.4
+      }
+    ]
+  },
+  {
+    "penyakit": "Helminthiasis (Cacingan)",
+    "rekomendasi": "Pemberian obat cacing (Albendazole/Fenbendazole); 4 bulan sekali",
+    "gejala": [
+      { "nama": "Diare", "mb": 0.8, "md": 0.2, "cf": 0.6 },
+      {
+        "nama": "Penurunan nafsu makan (Anoreksia)",
+        "mb": 0.6,
+        "md": 0.2,
+        "cf": 0.4
+      },
+      {
+        "nama": "Berat badan menurun (Kurus)",
+        "mb": 1.0,
+        "md": 0.2,
+        "cf": 0.8
+      },
+      {
+        "nama": "Selaput lendir pucat (Anemia)",
+        "mb": 0.7,
+        "md": 0.1,
+        "cf": 0.6
+      },
+      { "nama": "Bulu kusam dan rontok", "mb": 0.7, "md": 0.1, "cf": 0.6 },
+      {
+        "nama": "Adanya pembengkakan pada bagian bawah leher (Bottle Jaw)",
+        "mb": 0.5,
+        "md": 0.6,
+        "cf": -0.1
+      }
+    ]
+  },
+  {
+    "penyakit": "Scabies",
+    "rekomendasi": "Injeksi Ivermectin; Pemberian salep belerang",
+    "gejala": [
+      {
+        "nama": "Kulit gatal (Merasakan gatal dengan menggosok-gosok bagian tubuh (Pruritus))",
+        "mb": 0.9,
+        "md": 0.1,
+        "cf": 0.8
+      },
+      {
+        "nama": "Keropeng pada kulit (Crusta)",
+        "mb": 1.0,
+        "md": 0.0,
+        "cf": 1.0
+      },
+      {
+        "nama": "Muncul luka terbuka dan bernanah",
+        "mb": 0.8,
+        "md": 0.2,
+        "cf": 0.6
+      },
+      { "nama": "Kurus", "mb": 0.5, "md": 0.3, "cf": 0.2 },
+      { "nama": "Bulu kusam dan rontok", "mb": 0.8, "md": 0.2, "cf": 0.6 },
+      {
+        "nama": "Selaput lendir pucat (Anemia)",
+        "mb": 0.6,
+        "md": 0.2,
+        "cf": 0.4
+      }
+    ]
+  },
+  {
+    "penyakit": "Myiasis",
+    "rekomendasi": "Injeksi Antibiotik (Oxytetracycline); Spray Antiinsect (Gusanex)",
+    "gejala": [
+      { "nama": "Belatung pada luka", "mb": 1.0, "md": 0.0, "cf": 1.0 },
+      {
+        "nama": "Adanya jaringan mati (Nekrotik)",
+        "mb": 0.9,
+        "md": 0.1,
+        "cf": 0.8
+      },
+      {
+        "nama": "Merasakan gatal dengan menggosok-gosok bagian tubuh (Pruritus)",
+        "mb": 0.6,
+        "md": 0.2,
+        "cf": 0.4
+      },
+      { "nama": "Lemas (Lethargi)", "mb": 0.2, "md": 0.6, "cf": -0.4 },
+      { "nama": "Kurus", "mb": 0.2, "md": 0.6, "cf": -0.4 },
+      {
+        "nama": "Muncul luka terbuka dan bernanah",
+        "mb": 0.9,
+        "md": 0.1,
+        "cf": 0.8
+      }
+    ]
+  }
+]

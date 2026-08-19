@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+
+pydantic
+pydantic-settings
+pydantic[email]
+
+sqlalchemy
+pymysql
+
+mysqlclient
+
+pwdlib
+pwdlib[argon2]
+
+pyjwt[crypto] 
+passlib[bcrypt]
